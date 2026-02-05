@@ -105,4 +105,4 @@ This project successfully demonstrates how Generative AI combined with Retrieval
 ## 👩‍💻 Author
 
 ### Ranjana Patidar
-Data Science & Generative AI Practitioner
+Data Science, AI, ML and Generative AI Practitioner
